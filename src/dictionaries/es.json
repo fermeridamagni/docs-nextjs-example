@@ -1,0 +1,23 @@
+{
+  "header": {
+    "title": "Documentación",
+    "lang": {
+      "placeholder": "Idioma",
+      "es": "Español",
+      "en": "Inglés"
+    },
+    "search": {
+      "placeholder": "Buscar documentación..."
+    }
+  },
+  "navbar": {
+    "products": {
+      "placeholder": "Productos"
+    }
+  },
+  "introduction": {
+    "title": "Introducción",
+    "description": "Este es un ejemplo simple de cómo usar la biblioteca.",
+    "items": {}
+  }
+}
