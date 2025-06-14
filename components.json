@@ -11,9 +11,9 @@
     "prefix": ""
   },
   "aliases": {
-    "components": "@/components/new-york",
+    "components": "@/components/",
     "utils": "@magnidev/frontend-utils",
-    "ui": "@/components/new-york/ui",
+    "ui": "@/components/ui",
     "lib": "@/lib",
     "hooks": "@/hooks"
   },
