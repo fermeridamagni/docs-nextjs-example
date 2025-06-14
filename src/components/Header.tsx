@@ -7,15 +7,15 @@ import { useTheme } from "next-themes";
 import { MoonIcon, SunIcon } from "lucide-react";
 
 import type { Dictionary } from "@/types/dictionaries";
-import { Button } from "@/components/new-york/ui/button";
+import { Button } from "@/components/ui/button";
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@/components/new-york/ui/select";
-import { Input } from "./new-york/ui/input";
+} from "@/components/ui/select";
+import { Input } from "@/components/ui/input";
 
 export default function Header({
   lang,
