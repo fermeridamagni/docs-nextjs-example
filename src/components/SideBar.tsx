@@ -1,7 +1,7 @@
 "use client";
 
 import NextLink from "next/link";
-import { BoxIcon, ChevronRightIcon, HomeIcon } from "lucide-react";
+import { BoxIcon, ChevronRightIcon } from "lucide-react";
 
 import type { SideBarItem, SideBarSection } from "../types/components";
 import type { Dictionary } from "@/types/dictionaries";
@@ -12,12 +12,12 @@ import {
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@/components/new-york/ui/select";
+} from "@/components/ui/select";
 import {
   Collapsible,
   CollapsibleContent,
   CollapsibleTrigger,
-} from "@/components/new-york/ui/collapsible";
+} from "@/components/ui/collapsible";
 
 export default function SideBarComponent({
   dictionary,
